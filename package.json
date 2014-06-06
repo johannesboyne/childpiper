@@ -1,0 +1,15 @@
+{
+  "name": "piper",
+  "version": "0.0.1",
+  "description": "pipe from one child_process to another, starting and ending with normal streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Johannes Boyne <johannes@boyne.de>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "through": "~2.3.4"  
+  }
+}
