@@ -7,6 +7,7 @@
     "test": "node test.js"
   },
   "author": "Johannes Boyne <johannes@boyne.de>",
+  "repository": "git://github.com/johannesboyne/childpiper.git",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
