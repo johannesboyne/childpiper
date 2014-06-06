@@ -1,5 +1,5 @@
 {
-  "name": "piper",
+  "name": "childpiper",
   "version": "0.0.1",
   "description": "pipe from one child_process to another, starting and ending with normal streams",
   "main": "index.js",

@@ -1,4 +1,4 @@
-#p|per
+#childp|per
 
 ```
 
@@ -9,7 +9,7 @@
 Thats what p|per is for.
 
 ```javascript
-piper(
+childpiper(
   inputStream, 
   [
     spawn('tr', ['[:lower:]', '[:upper:]']),
